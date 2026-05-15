@@ -58,11 +58,11 @@ Use Power BI to analyze business data to find new market opportunities, and find
 <img width="1121" height="628" alt="image" src="https://github.com/user-attachments/assets/88e7d85a-662d-487f-9fad-33f2520796b7" />
 <img width="1033" height="506" alt="image" src="https://github.com/user-attachments/assets/2ca99ce5-7506-4b82-9c9f-91f7b3269a56" />
 
-## STEP 3: IDEATE (LÊN Ý TƯỞNG)
+## STEP 3: Ideate (Lên ý tưởng)
 
 <img width="1416" height="630" alt="image" src="https://github.com/user-attachments/assets/9ec6309c-5dc0-4f22-ba90-b82e6f50fcee" />
 
-## STEP 4:  PRPTOTYPE AND REVIEW (TẠO MẪU THỬ NGHIỆM VÀ ĐÁNH GIÁ)
+## STEP 4:  Prototype and review (tạo mẫu thữ nghiệm và đánh giá)
 
 Choose the type of chart suitable for the questions
 Presentation, layout of each part of the report(size, chart arrangement...)
